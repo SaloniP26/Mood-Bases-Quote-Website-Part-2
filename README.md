@@ -25,3 +25,7 @@ Throughout the project, I have enhanced my PHP development skills and gained val
 
 ## Live Demo
 Check out the live demo of the Mood-Based Quotes Website hosted on Infinity Free: [Mood-Based Quotes Website](http://n01607913.free.nf/PHP-Assignment2/)
+
+## Test Credentials
+Email: john@example.com
+Password: password
